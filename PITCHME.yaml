@@ -1,0 +1,17 @@
+#テーマ設定
+theme : moon
+
+
+#ロゴアイコンの設定
+logo : img/logo.png
+
+
+#フットノートの設定
+footnote : "© 2017 sample Inc."
+
+
+#スライドのページ数表示の設定
+slide-number: true
+
+#コードのシンタックスハイライトの設定
+highlight : monokai
